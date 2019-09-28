@@ -1,0 +1,63 @@
+
+
+body{
+  background-color: black;
+  color: white;
+}
+
+#pic{
+  width: 95%;
+  margin-left: 3%;
+  margin-right: 4%;
+
+}
+
+.navbar{
+  opacity: 0.7;
+}
+
+#explanation{
+  width: 95%;
+  margin-left: 3%;
+  margin-right: 1%;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  width: 95%;
+  margin-left: 3%;
+  margin-right: 1%;
+  font-style: normal;
+  font-family: sans-serif;
+}
+h3{
+  width: 95%;
+  margin-left: 3%;
+  margin-right: 1%;
+  font-style: normal;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+#title{
+  width: 95%;
+  margin-left: 3%;
+  margin-right: 1%;
+  font-size: 20px;
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+p{
+  width: 95%;
+  margin-left: 3%;
+  margin-right: 1%;
+  font-size: 20px;
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+#background{
+  width: 100%;
+}
